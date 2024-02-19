@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+#content {
+    padding: 40vh 0;
+}
+.mainHeader {
+    color: white;
+    text-align: center;
+    font-family: "VT323", monospace;
+    font-size: 40px;
+}
+.mainText {
+    color: white;
+    text-align: center;
+    font-family: "VT323", monospace;
+    font-size: 30px;
+}
+.subText {
+    color: white;
+    text-align: center;
+    font-family: "VT323", monospace;
+    font-size: 14px;
+}
+.textLink {
+    color: #FFC107;
+}
+.textLink:visited {
+    color: #FFC107;
+}
+.textLink:unvisited{
+    color: #FFC107;
+}
+.textLink:hover {
+    color: #FFC107;
+}
+.textLink:active{
+    color: #FFC107;
+}
